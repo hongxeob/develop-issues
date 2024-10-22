@@ -8,3 +8,4 @@
 - [Entity간 연관 관계가 Lazy Loading일 때, 해당 엔티티를 사용하는 메서드에 @Tx가 없다면?](https://github.com/hongxeob/develop-issues/issues/5)
 - [공통적으로 적용시켜보면 좋을 백엔드 코드 컨벤션](https://github.com/hongxeob/develop-issues/issues/7)
 - [JPA/DDD 관점에서의 직접 참조/간접 참조](https://github.com/hongxeob/develop-issues/issues/9)
+- [조회 시 findByXXX() vs findAll() + stream(filter): 성능 비교 분석](https://github.com/hongxeob/develop-issues/issues/11)
